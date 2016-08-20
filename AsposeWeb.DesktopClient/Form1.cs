@@ -197,7 +197,7 @@ namespace AsposeWeb.DesktopClient
 
         private void Form1_Load(object sender, EventArgs e)
         {
-            textBox6.Text = "hi.doc , test.doc ,B anothertest.doc";
+            textBox6.Text = "hi.doc , test.doc , anothertest.doc";
         }
     }
 }
