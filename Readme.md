@@ -23,3 +23,8 @@ For Api documentation you can read **Api documentation.doc** file.
 ### Stuff used to make this:
 
  * [Aspose.Words](http://www.aspose.com/downloads/words/net) for playing with word document
+ * [Newtonsoft.JSON](http://www.newtonsoft.com/json) for JSON thing
+
+### Video:
+
+ * [Video Description](https://youtu.be/7m5wWy6p4DA) on youtube
